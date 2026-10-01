@@ -42,7 +42,7 @@ I care about clear APIs, useful tests, and understanding what an experiment actu
 
 Match resumes to job requirements with requirement-level evidence and optional retrieval/reranking.
 
-[Explore repository →](https://github.com/viniciusrodriguesai/resume-agent-system)
+[Explore repository →](https://github.com/viniciusrodriguesai/resume-agent-system) · [Recorded lexical demo](https://github.com/viniciusrodriguesai/resume-agent-system/blob/main/docs/DEMO.md)
 
 <details>
 <summary><strong>Explore the engineering and evaluation</strong></summary>
@@ -59,7 +59,7 @@ Match resumes to job requirements with requirement-level evidence and optional r
 
 An application for creator feedback, analytics, and external API workflows.
 
-[Explore repository →](https://github.com/viniciusrodriguesai/creator-growth-feedback-loop)
+[Explore repository →](https://github.com/viniciusrodriguesai/creator-growth-feedback-loop) · [Product walkthrough](https://www.youtube.com/watch?v=r_Dtv8fwnhw)
 
 <details>
 <summary><strong>Explore the application architecture</strong></summary>
@@ -83,7 +83,8 @@ An academic Home Credit classification study comparing a neural network and a re
 - Examine class imbalance, decision thresholds, and model comparisons.
 - Consult the provenance document before interpreting historical results.
 - Historical reports and saved notebook outputs come from different experiment configurations.
-- A fully reproducible experiment with a locked final holdout remains future work.
+- A separate, reproducible raw-feature tree run records ROC AUC 0.7227, average precision 0.1972, and F1 0.2694 against a prior baseline.
+- Read the [real-data run and reproduction guide](https://github.com/viniciusrodriguesai/credit-risk-classification/blob/main/docs/HOMECREDIT_RESULTS.md); historical test exposure and independent-validation limits are explicit.
 
 </details>
 
@@ -92,12 +93,13 @@ An academic Home Credit classification study comparing a neural network and a re
 
 An economic data dashboard with forecasting baselines and automated API/dashboard tests.
 
-[Explore repository →](https://github.com/viniciusrodriguesai/worldbank-economic-dashboard)
+[Explore repository →](https://github.com/viniciusrodriguesai/worldbank-economic-dashboard) · [Real-data backtest](https://github.com/viniciusrodriguesai/worldbank-economic-dashboard/blob/main/docs/BACKTEST_RESULTS.md)
 
 <details>
 <summary><strong>Explore the data and forecasting workflow</strong></summary>
 
 - Inspect economic data processing and time-series forecasting baselines.
+- Reproduce a Brazil GDP-growth backtest across eight historical origins, with all predictions and baseline comparisons.
 - Review backend/frontend tests and continuous integration.
 - Consult the documented assumptions before interpreting forecasts.
 
