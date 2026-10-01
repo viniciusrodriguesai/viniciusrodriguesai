@@ -1,35 +1,32 @@
-# Vinícius Rodrigues
+# Vinicius Rodrigues
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-viniciustrajano-blue?logo=kaggle)](https://www.kaggle.com/viniciustrajano)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicius--mangueira-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-mangueira-0b8285224/)
+Data Science and Artificial Intelligence student at the Federal University of Paraíba (UFPB), Brazil. Seeking international internship opportunities in AI/ML, data and software engineering.
 
-💡 *Vinícius Rodrigues*  
-🎓 Estudante de Ciência de Dados e Inteligência Artificial na UFPB  
-📊 Apaixonado por IA & Data Science | 🔍 Explorando Machine Learning  
-💻 Sempre aprendendo e desenvolvendo projetos inovadores
+I build Python applications, study machine learning evaluation and work on APIs and data workflows. This portfolio separates completed features, measured results and planned work.
 
----
+## Selected projects
 
-## 🎓 Sobre mim | About Me
+| Project | Focus | What to inspect |
+| --- | --- | --- |
+| [Resume Match AI](https://github.com/viniciusrodriguesai/resume-agent-system) | Python, applied AI, Streamlit, FastAPI | Evidence-based resume/job matching, lexical fallback, optional retrieval/reranking, tests and evaluation limits |
+| [Creator Growth Feedback Loop](https://github.com/viniciusrodriguesai/creator-growth-feedback-loop) | Full-stack software and product analytics | FastAPI/React application, SQLAlchemy persistence, external API integration and backend/frontend tests |
+| [Credit Risk Classification](https://github.com/viniciusrodriguesai/credit-risk-classification) | Supervised machine learning | Neural-network/tree comparison with Gustavo Pereira, class imbalance and documented experiment provenance |
+| [Worldbank Economic Dashboard](https://github.com/viniciusrodriguesai/worldbank-economic-dashboard) | Data engineering, APIs and time series | Economic data workflows, forecasting baselines, API and dashboard tests |
 
-Sou um entusiasta da Inteligência Artificial e Ciência de Dados, sempre buscando aprender e criar soluções inovadoras. Gosto de explorar algoritmos, análise de dados e construir modelos que transformam informação em conhecimento.
+## Open-source work
 
-I'm an AI and Data Science enthusiast, always looking to learn and create innovative solutions. I enjoy exploring algorithms, data analysis, and building models that turn information into knowledge.
+The following contributions are **open pull requests**, not merged contributions:
 
----
+- [CS2 RouteFilter #4](https://github.com/Daotie/CS2-RouteFilter/pull/4): dependency lockfile correction.
+- [CS2 RouteFilter #5](https://github.com/Daotie/CS2-RouteFilter/pull/5): asset catalog filtering, sorting and interface improvements.
+- [TransitTimetables #19](https://github.com/AmicusDeus/TransitTimetables/pull/19): multiple-terminal support.
 
-## 🔧 Tecnologias e Ferramentas | Tools & Technologies
+Status recorded during the portfolio audit; follow each link for the current review status.
 
-- 🐍 **Linguagens | Languages**: Python, C  
-- 📊 **Análise de Dados | Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
-- 🛠 **Outros | Others**: Git, Docker
+## Technical interests
 
----
+Python, SQL, machine learning evaluation, API design and reproducible data workflows. C/C++ exercises and historical course projects are available in my repositories as learning records.
 
-## 📬 Entre em contato | Get in Touch
+## Contact
 
-- 📧 **Email**: viniciusmangueira@gmail.com  
-- 🔗 **Kaggle**: [kaggle.com/viniciustrajano](https://www.kaggle.com/viniciustrajano)  
-- 💼 **LinkedIn**: [linkedin.com/in/vinicius-mangueira-0b8285224](https://www.linkedin.com/in/vinicius-mangueira-0b8285224/)
-
-
+[LinkedIn](https://www.linkedin.com/in/vinicius-mangueira-0b8285224/) · [Kaggle](https://www.kaggle.com/viniciustrajano) · [Email](mailto:viniciusmangueira@gmail.com)
