@@ -128,7 +128,7 @@ My repositories also include C/C++ exercises, data structures, exploratory data 
 
 I'm interested in internship opportunities where I can contribute to Python applications, data workflows, and machine learning projects while learning from an engineering team.
 
-**[LinkedIn](https://www.linkedin.com/in/viniciusrodriguesai/) · [Kaggle](https://www.kaggle.com/viniciustrajano) · [Email](mailto:viniciusmangueira@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/viniciusrodriguesai/) · [Kaggle](https://www.kaggle.com/viniciustrajano) · [Email](mailto:viniciusmangueira04@gmail.com)**
 
 <div align="center">
 
