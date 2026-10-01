@@ -1,6 +1,6 @@
 # Profile setup
 
-The GitHub profile README must be in a public repository named **viniciusrodriguesai**, matching the account username. This repository is currently named Vinicius-Mangueira, so publishing this README here alone does not activate the profile README.
+The repository is now public and named **viniciusrodriguesai**, matching the account username. The English README is integrated on main; the repository rename was confirmed during the portfolio implementation.
 
 ## Prepared profile settings
 
@@ -28,4 +28,4 @@ Use four strong projects initially. Review the fifth/sixth slot after the next p
 - Pygame-Treasure-Hunt: Historical Pygame resource-loading and event-loop prototype; gameplay remains incomplete.
 - cpp-learning-journey: Eight introductory C++ exercises covering variables, operators and conditional expressions.
 
-These settings are prepared for publication, not evidence that the account settings have already changed. Repository renaming/creation, bio and pins require a GitHub capability beyond the current connector's file and PR operations.
+The README and repository rename are complete. The bio, pins and repository descriptions above remain prepared settings; their publication has not been confirmed. Those account/settings mutations require a GitHub capability beyond the current connector's file and PR operations.
