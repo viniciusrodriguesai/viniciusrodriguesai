@@ -59,7 +59,7 @@ Match resumes to job requirements with requirement-level evidence and optional r
 
 An application for creator feedback, analytics, and external API workflows.
 
-[Explore repository →](https://github.com/viniciusrodriguesai/creator-growth-feedback-loop) · [Product walkthrough](https://www.youtube.com/watch?v=r_Dtv8fwnhw)
+[Explore repository →](https://github.com/viniciusrodriguesai/creator-growth-feedback-loop) · [Try the live demo](https://creator-growth-feedback-loop.onrender.com/) · [Product walkthrough](https://www.youtube.com/watch?v=r_Dtv8fwnhw)
 
 <details>
 <summary><strong>Explore the application architecture</strong></summary>
