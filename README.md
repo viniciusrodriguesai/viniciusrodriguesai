@@ -47,10 +47,11 @@ Match resumes to job requirements with requirement-level evidence and optional r
 <details>
 <summary><strong>Explore the engineering and evaluation</strong></summary>
 
-- Inspect evidence-based matching and the lexical fallback.
+- Inspect evidence-based matching and the default lexical demo.
 - Explore optional retrieval/reranking components and the API/UI.
 - Review automated tests and the documented evaluation boundaries.
 - Read the [36-case optional-model ablation](https://github.com/viniciusrodriguesai/resume-agent-system/blob/main/docs/MODEL_ABLATION.md): lexical, E5-small and reranking produced identical labels; independent annotation remains pending.
+- Review the [external SkillSpan component benchmark](https://github.com/viniciusrodriguesai/resume-agent-system/blob/main/docs/SKILLSPAN_RESULTS.md): 3,569 human-annotated sentences / 65 posting clusters; the fixed catalog has limited coverage (token precision 0.7742, recall 0.0420). Full-pipeline independent labels are still pending.
 - Treat matching outputs as assistance for reviewing a resume, rather than a validated hiring decision.
 
 </details>
@@ -81,6 +82,7 @@ An academic Home Credit classification study comparing a neural network and a re
 <details>
 <summary><strong>Explore the experiments and their limitations</strong></summary>
 
+- Reproduce a [preregistered UCI replication](https://github.com/viniciusrodriguesai/credit-risk-classification/blob/main/docs/UCI_RESULTS.md) on a new cohort: models and thresholds frozen before one held-out test pass, paired uncertainty, and poor-calibration analysis. This is a new-model replication, not transfer validation of the Home Credit model.
 - Examine class imbalance, decision thresholds, and model comparisons.
 - Consult the provenance document before interpreting historical results.
 - Historical reports and saved notebook outputs come from different experiment configurations.
