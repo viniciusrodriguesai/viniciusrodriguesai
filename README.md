@@ -50,6 +50,7 @@ Match resumes to job requirements with requirement-level evidence and optional r
 - Inspect evidence-based matching and the lexical fallback.
 - Explore optional retrieval/reranking components and the API/UI.
 - Review automated tests and the documented evaluation boundaries.
+- Read the [36-case optional-model ablation](https://github.com/viniciusrodriguesai/resume-agent-system/blob/main/docs/MODEL_ABLATION.md): lexical, E5-small and reranking produced identical labels; independent annotation remains pending.
 - Treat matching outputs as assistance for reviewing a resume, rather than a validated hiring decision.
 
 </details>
@@ -83,6 +84,7 @@ An academic Home Credit classification study comparing a neural network and a re
 - Examine class imbalance, decision thresholds, and model comparisons.
 - Consult the provenance document before interpreting historical results.
 - Historical reports and saved notebook outputs come from different experiment configurations.
+- A [new fixed-protocol MLP run](https://github.com/viniciusrodriguesai/credit-risk-classification/blob/main/docs/NEURAL_RESULTS.md) records AUC 0.7443, AP 0.2129 and F1 0.2887; calibration and historical test-exposure limits remain explicit.
 - A separate, reproducible raw-feature tree run records ROC AUC 0.7227, average precision 0.1972, and F1 0.2694 against a prior baseline.
 - Read the [real-data run and reproduction guide](https://github.com/viniciusrodriguesai/credit-risk-classification/blob/main/docs/HOMECREDIT_RESULTS.md); historical test exposure and independent-validation limits are explicit.
 
@@ -99,7 +101,7 @@ An economic data dashboard with forecasting baselines and automated API/dashboar
 <summary><strong>Explore the data and forecasting workflow</strong></summary>
 
 - Inspect economic data processing and time-series forecasting baselines.
-- Reproduce a Brazil GDP-growth backtest across eight historical origins, with all predictions and baseline comparisons.
+- Reproduce [six GDP-growth/inflation backtests](https://github.com/viniciusrodriguesai/worldbank-economic-dashboard/blob/main/docs/EXPANDED_BACKTEST_RESULTS.md) across Brazil, the US and Germany: eight origins per series, every prediction and baseline, and revised-vintage limitations.
 - Review backend/frontend tests and continuous integration.
 - Consult the documented assumptions before interpreting forecasts.
 
