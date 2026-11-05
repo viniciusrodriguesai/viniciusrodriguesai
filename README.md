@@ -42,7 +42,7 @@ I care about clear APIs, useful tests, and understanding what an experiment actu
 
 Match resumes to job requirements with requirement-level evidence and optional retrieval/reranking.
 
-[Explore repository →](https://github.com/viniciusrodriguesai/resume-agent-system) · [Recorded lexical demo](https://github.com/viniciusrodriguesai/resume-agent-system/blob/main/docs/DEMO.md)
+[Explore repository →](https://github.com/viniciusrodriguesai/resume-agent-system) · [Live lexical demo](https://vinicius-resume-match-demo.onrender.com/) · [Recorded example](https://github.com/viniciusrodriguesai/resume-agent-system/blob/main/docs/DEMO.md)
 
 <details>
 <summary><strong>Explore the engineering and evaluation</strong></summary>
